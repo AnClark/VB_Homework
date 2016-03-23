@@ -1,0 +1,12 @@
+C:\Users\AnCla\AppData\Local\Temporary Projects\GetAverage\bin\Debug\GetAverage.exe
+C:\Users\AnCla\AppData\Local\Temporary Projects\GetAverage\bin\Debug\GetAverage.pdb
+C:\Users\AnCla\AppData\Local\Temporary Projects\GetAverage\bin\Debug\GetAverage.xml
+C:\Users\AnCla\AppData\Local\Temporary Projects\GetAverage\obj\x86\Debug\GetAverage.Form1.resources
+C:\Users\AnCla\AppData\Local\Temporary Projects\GetAverage\obj\x86\Debug\GetAverage.Resources.resources
+C:\Users\AnCla\AppData\Local\Temporary Projects\GetAverage\obj\x86\Debug\GetAverage.vbproj.GenerateResource.Cache
+C:\Users\AnCla\AppData\Local\Temporary Projects\GetAverage\obj\x86\Debug\GetAverage.exe
+C:\Users\AnCla\AppData\Local\Temporary Projects\GetAverage\obj\x86\Debug\GetAverage.xml
+C:\Users\AnCla\AppData\Local\Temporary Projects\GetAverage\obj\x86\Debug\GetAverage.pdb
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\04\GetAverage\GetAverage\obj\x86\Debug\GetAverage.exe
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\04\GetAverage\GetAverage\obj\x86\Debug\GetAverage.xml
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\04\GetAverage\GetAverage\obj\x86\Debug\GetAverage.pdb

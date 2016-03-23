@@ -1,0 +1,12 @@
+C:\Users\AnCla\AppData\Local\Temporary Projects\Calc_Rectangle\bin\Debug\Calc_Rectangle.exe
+C:\Users\AnCla\AppData\Local\Temporary Projects\Calc_Rectangle\bin\Debug\Calc_Rectangle.pdb
+C:\Users\AnCla\AppData\Local\Temporary Projects\Calc_Rectangle\bin\Debug\Calc_Rectangle.xml
+C:\Users\AnCla\AppData\Local\Temporary Projects\Calc_Rectangle\obj\x86\Debug\Calc_Rectangle.Form1.resources
+C:\Users\AnCla\AppData\Local\Temporary Projects\Calc_Rectangle\obj\x86\Debug\Calc_Rectangle.Resources.resources
+C:\Users\AnCla\AppData\Local\Temporary Projects\Calc_Rectangle\obj\x86\Debug\Calc_Rectangle.vbproj.GenerateResource.Cache
+C:\Users\AnCla\AppData\Local\Temporary Projects\Calc_Rectangle\obj\x86\Debug\Calc_Rectangle.exe
+C:\Users\AnCla\AppData\Local\Temporary Projects\Calc_Rectangle\obj\x86\Debug\Calc_Rectangle.xml
+C:\Users\AnCla\AppData\Local\Temporary Projects\Calc_Rectangle\obj\x86\Debug\Calc_Rectangle.pdb
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\05\Calc_Rectangle\Calc_Rectangle\obj\x86\Debug\Calc_Rectangle.exe
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\05\Calc_Rectangle\Calc_Rectangle\obj\x86\Debug\Calc_Rectangle.xml
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\05\Calc_Rectangle\Calc_Rectangle\obj\x86\Debug\Calc_Rectangle.pdb

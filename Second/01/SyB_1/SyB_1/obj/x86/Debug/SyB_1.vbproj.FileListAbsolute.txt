@@ -1,0 +1,12 @@
+C:\Users\AnCla\AppData\Local\Temporary Projects\SyB_1\bin\Debug\SyB_1.exe
+C:\Users\AnCla\AppData\Local\Temporary Projects\SyB_1\bin\Debug\SyB_1.pdb
+C:\Users\AnCla\AppData\Local\Temporary Projects\SyB_1\bin\Debug\SyB_1.xml
+C:\Users\AnCla\AppData\Local\Temporary Projects\SyB_1\obj\x86\Debug\SyB_1.Resources.resources
+C:\Users\AnCla\AppData\Local\Temporary Projects\SyB_1\obj\x86\Debug\SyB_1.vbproj.GenerateResource.Cache
+C:\Users\AnCla\AppData\Local\Temporary Projects\SyB_1\obj\x86\Debug\SyB_1.exe
+C:\Users\AnCla\AppData\Local\Temporary Projects\SyB_1\obj\x86\Debug\SyB_1.xml
+C:\Users\AnCla\AppData\Local\Temporary Projects\SyB_1\obj\x86\Debug\SyB_1.pdb
+C:\Users\AnCla\AppData\Local\Temporary Projects\SyB_1\obj\x86\Debug\SyB_1.SyB_1.resources
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\01\SyB_1\SyB_1\obj\x86\Debug\SyB_1.exe
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\01\SyB_1\SyB_1\obj\x86\Debug\SyB_1.xml
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\01\SyB_1\SyB_1\obj\x86\Debug\SyB_1.pdb

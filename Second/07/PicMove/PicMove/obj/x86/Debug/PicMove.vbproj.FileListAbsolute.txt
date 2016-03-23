@@ -1,0 +1,12 @@
+C:\Users\AnCla\AppData\Local\Temporary Projects\PicMove\bin\Debug\PicMove.exe
+C:\Users\AnCla\AppData\Local\Temporary Projects\PicMove\bin\Debug\PicMove.pdb
+C:\Users\AnCla\AppData\Local\Temporary Projects\PicMove\bin\Debug\PicMove.xml
+C:\Users\AnCla\AppData\Local\Temporary Projects\PicMove\obj\x86\Debug\PicMove.SyB_7.resources
+C:\Users\AnCla\AppData\Local\Temporary Projects\PicMove\obj\x86\Debug\PicMove.Resources.resources
+C:\Users\AnCla\AppData\Local\Temporary Projects\PicMove\obj\x86\Debug\PicMove.vbproj.GenerateResource.Cache
+C:\Users\AnCla\AppData\Local\Temporary Projects\PicMove\obj\x86\Debug\PicMove.exe
+C:\Users\AnCla\AppData\Local\Temporary Projects\PicMove\obj\x86\Debug\PicMove.xml
+C:\Users\AnCla\AppData\Local\Temporary Projects\PicMove\obj\x86\Debug\PicMove.pdb
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\07\PicMove\PicMove\obj\x86\Debug\PicMove.exe
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\07\PicMove\PicMove\obj\x86\Debug\PicMove.xml
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\07\PicMove\PicMove\obj\x86\Debug\PicMove.pdb

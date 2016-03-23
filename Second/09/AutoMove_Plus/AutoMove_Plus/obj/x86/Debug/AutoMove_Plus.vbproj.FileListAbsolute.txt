@@ -1,0 +1,9 @@
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\09\AutoMove_Plus\AutoMove_Plus\bin\Debug\AutoMove_Plus.exe
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\09\AutoMove_Plus\AutoMove_Plus\bin\Debug\AutoMove_Plus.pdb
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\09\AutoMove_Plus\AutoMove_Plus\bin\Debug\AutoMove_Plus.xml
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\09\AutoMove_Plus\AutoMove_Plus\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\09\AutoMove_Plus\AutoMove_Plus\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\09\AutoMove_Plus\AutoMove_Plus\obj\x86\Debug\AutoMove_Plus.vbproj.GenerateResource.Cache
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\09\AutoMove_Plus\AutoMove_Plus\obj\x86\Debug\AutoMove_Plus.exe
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\09\AutoMove_Plus\AutoMove_Plus\obj\x86\Debug\AutoMove_Plus.xml
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Second\09\AutoMove_Plus\AutoMove_Plus\obj\x86\Debug\AutoMove_Plus.pdb
