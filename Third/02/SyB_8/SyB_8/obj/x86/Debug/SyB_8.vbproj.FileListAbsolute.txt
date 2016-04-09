@@ -1,0 +1,9 @@
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\02\SyB_8\SyB_8\bin\Debug\SyB_8.exe
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\02\SyB_8\SyB_8\bin\Debug\SyB_8.pdb
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\02\SyB_8\SyB_8\bin\Debug\SyB_8.xml
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\02\SyB_8\SyB_8\obj\x86\Debug\SyB_8.Form1.resources
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\02\SyB_8\SyB_8\obj\x86\Debug\SyB_8.Resources.resources
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\02\SyB_8\SyB_8\obj\x86\Debug\SyB_8.vbproj.GenerateResource.Cache
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\02\SyB_8\SyB_8\obj\x86\Debug\SyB_8.exe
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\02\SyB_8\SyB_8\obj\x86\Debug\SyB_8.xml
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\02\SyB_8\SyB_8\obj\x86\Debug\SyB_8.pdb

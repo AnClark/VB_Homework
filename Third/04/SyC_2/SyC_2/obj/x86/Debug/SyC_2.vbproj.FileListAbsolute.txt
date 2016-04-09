@@ -1,0 +1,9 @@
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\04\SyC_2\SyC_2\bin\Debug\SyC_2.exe
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\04\SyC_2\SyC_2\bin\Debug\SyC_2.pdb
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\04\SyC_2\SyC_2\bin\Debug\SyC_2.xml
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\04\SyC_2\SyC_2\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\04\SyC_2\SyC_2\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\04\SyC_2\SyC_2\obj\x86\Debug\SyC_2.vbproj.GenerateResource.Cache
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\04\SyC_2\SyC_2\obj\x86\Debug\SyC_2.exe
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\04\SyC_2\SyC_2\obj\x86\Debug\SyC_2.xml
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\04\SyC_2\SyC_2\obj\x86\Debug\SyC_2.pdb
