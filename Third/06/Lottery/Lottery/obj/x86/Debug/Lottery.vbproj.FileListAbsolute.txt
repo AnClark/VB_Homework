@@ -1,0 +1,9 @@
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\06\Lottery\Lottery\bin\Debug\Lottery.exe
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\06\Lottery\Lottery\bin\Debug\Lottery.pdb
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\06\Lottery\Lottery\bin\Debug\Lottery.xml
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\06\Lottery\Lottery\obj\x86\Debug\Lottery.Form1.resources
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\06\Lottery\Lottery\obj\x86\Debug\Lottery.Resources.resources
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\06\Lottery\Lottery\obj\x86\Debug\Lottery.vbproj.GenerateResource.Cache
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\06\Lottery\Lottery\obj\x86\Debug\Lottery.exe
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\06\Lottery\Lottery\obj\x86\Debug\Lottery.xml
+D:\Cygwin\cyg_root\home\AnCla\VBWork\Third\06\Lottery\Lottery\obj\x86\Debug\Lottery.pdb
